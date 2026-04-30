@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.smchio99.alkagi",
+      "sha256_cert_fingerprints": [
+        "78:21:EB:C4:1D:E3:44:E5:17:F1:EB:69:76:D9:BD:8B:99:0A:07:2B:08:74:72:3A:8D:E4:49:A5:92:67:28:0E"
+      ]
+    }
+  }
+]
